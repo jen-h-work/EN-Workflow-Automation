@@ -1,0 +1,240 @@
+0: My Projects
+1: Jennifer.Hu@parthenon.ey.com
+2: IWMS Market Research
+3: Calls Project
+4: |Confidential. Do not distribute to third parties.
+5: Update project priorities
+6: Your Dialectica contact:
+7: Konstantinos Michail Servis
+8: konstantinos.servis@dialecticanet.com
+9: Filter by:
+10: Perspective
+11: Company
+12: Geoscope of expertise
+13: Long list
+14: 62
+15: Shortlisted
+16: 0
+17: Scheduled
+18: 0
+19: Completed
+20: 11
+21: Download experts (.xls)
+22: BETA
+23: Transcripts AI chatbot
+24: Transcripts AI chatbot
+25: Now you can extract insights from your call transcripts for FREE.
+26: Watch demo
+27: To review
+28: 62
+29: Added
+30: ID & Name
+31: Perspective
+32: Company
+33: Relevant position
+34: Geoscope
+35: Tenure
+36: Screening
+37: Availability
+38: Pricing
+39: in EUR
+40: Actions
+41: 11d
+42: #76 Javier Pérez
+43: Energy Management System (EMS)
+44: Spacewell Energy (Dexma)
+45: Customer Success Specialist
+46: ES
+47: Feb '25 - Sep '25
+48: TBC
+49: TBC
+50: 1296 / 60’
+51: 908 / 30’
+52: Shortlist
+53: Schedule
+54: 15d
+55: #75 Peter Prischl
+56: Customers
+57: afondo GmbH
+58: Principal Consultant and Managing Director
+59: DACH
+60: Jan '19 - Now
+61: Screened
+62: TBC
+63: 1296 / 60’
+64: 908 / 30’
+65: Shortlist
+66: Schedule
+67: 15d
+68: #74 Willem van Ansem
+69: Customers
+70: CoreNet Global Benelux Chapter
+71: Chair/board member
+72: Europe
+73: Jan '23 - Now
+74: Screened
+75: TBC
+76: 864 / 60’
+77: 605 / 30’
+78: Shortlist
+79: Schedule
+80: 15d
+81: #73 Markus Laub
+82: Customers
+83: mymuesli
+84: Chief Operating Officer (COO) - Vorstand
+85: Europe
+86: Apr '22 - Now
+87: Screened
+88: Available
+89: 1728 / 60’
+90: 1210 / 30’
+91: Shortlist
+92: Schedule
+93: 15d
+94: #72 Abdula Abduli
+95: Customers
+96: NORDSEE GmbH
+97: Operational Excellence Manager
+98: DE
+99: Jun '25 - Mar '26
+100: Screened
+101: TBC
+102: 864 / 60’
+103: 605 / 30’
+104: Shortlist
+105: Schedule
+106: 15d
+107: #71 Jack Rosenthal
+108: Customers
+109: CBRE
+110: Associate Director
+111: Europe
+112: Mar '25 - Now
+113: Screened
+114: Available
+115: 1080 / 60’
+116: 756 / 30’
+117: Shortlist
+118: Schedule
+119: 15d
+120: #70 Nathan Kimpel
+121: Customers
+122: Cushman & Wakefield
+123: Head of Technology - Multifamily
+124: Global
+125: Dec '24 - Now
+126: Screened
+127: Available
+128: 1080 / 60’
+129: 756 / 30’
+130: Shortlist
+131: Schedule
+132: 15d
+133: #69 Jade Bogna
+134: Customers
+135: 7-Eleven
+136: Maintenance Systems Analyst
+137: USA
+138: Jul '19 - Now
+139: Screened
+140: TBC
+141: 864 / 60’
+142: 605 / 30’
+143: Shortlist
+144: Schedule
+145: 15d
+146: #68 Kamil Daniel Akdag
+147: Customers
+148: Crypto Valley Association
+149: Ambassador for Blockchain & AI supporting MRV Functions (Reporting, Tracking & Compliance)
+150: Europe
+151: Nov '24 - Now
+152: Screened
+153: TBC
+154: 1080 / 60’
+155: 756 / 30’
+156: Shortlist
+157: Schedule
+158: 16d
+159: #67 Wasfi Al Aazzam
+160: Customers
+161: OmniBioPro
+162: Founder & Chief Technologist | Principal CMC & Technical Development Advisor
+163: Global
+164: May '24 - Now
+165: Screened
+166: Available
+167: 1080 / 60’
+168: 756 / 30’
+169: Shortlist
+170: Schedule
+171: 16d
+172: #66 Kurt Ochalla
+173: Customers
+174: Biogen
+175: Head of Global Real Estate
+176: Global
+177: Dec '19 - Sep '25
+178: Screened
+179: TBC
+180: 864 / 60’
+181: 605 / 30’
+182: Shortlist
+183: Schedule
+184: 16d
+185: #65 Daniel Gamper
+186: Customers
+187: Roche
+188: Global Lead Facility Management
+189: Europe
+190: Dec '20 - Now
+191: Screened
+192: TBC
+193: 1512 / 60’
+194: 1059 / 30’
+195: Shortlist
+196: Schedule
+197: 16d
+198: #64 Jose Rodriguez
+199: Customers
+200: Cybren AI industries, ltd.
+201: Owner & Chairman at Cybren AI industries
+202: Europe
+203: Feb '25 - Now
+204: Screened
+205: TBC
+206: 864 / 60’
+207: 605 / 30’
+208: Shortlist
+209: Schedule
+210: 16d
+211: #62 Victor Kruger
+212: Customers
+213: FC Twente
+214: ICT Sourcing
+215: NL
+216: Jan '21 - Now
+217: Screened
+218: TBC
+219: 1512 / 60’
+220: 1059 / 30’
+221: Shortlist
+222: Schedule
+223: 16d
+224: #61 Ronny Waser
+225: Customers
+226: Waser Works AG
+227: Mitinhaber und Verwaltungsrat / Co-owner, Member of the board of directors
+228: CH
+229: Jun '18 - Now
+230: Screened
+231: TBC
+232: 1296 / 60’
+233: 908 / 30’
+234: Shortlist
+235: Schedule
+236: 2024, Dialectica. All rights reserved.
+237: Terms of Use
+238: Privacy Policy
+239: Cookie Policy
